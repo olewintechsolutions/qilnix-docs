@@ -136,6 +136,11 @@
   },
   {
     "group": "QPM Package",
-    "items": []
+    "items": [
+      {
+        "label": "what is qpm",
+        "file": "what-is-qpm.md"
+      }
+    ]
   }
 ]
