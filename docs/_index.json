@@ -1,0 +1,52 @@
+[
+  {
+    "group": "Getting Started",
+    "items": [
+      { "label": "Quickstart",       "file": "quickstart.md" },
+      { "label": "Installation",     "file": "installation.md" },
+      { "label": "First Program",    "file": "first-program.md" }
+    ]
+  },
+  {
+    "group": "Language Basics",
+    "items": [
+      { "label": "Types & Variables", "file": "types.md" },
+      { "label": "Quantum Types",     "file": "quantum-types.md" },
+      { "label": "Functions",         "file": "functions.md" },
+      { "label": "Control Flow",      "file": "control-flow.md" }
+    ]
+  },
+  {
+    "group": "Quantum Circuits",
+    "items": [
+      { "label": "Circuits",          "file": "circuits.md" },
+      { "label": "Gates",             "file": "gates.md" },
+      { "label": "Measurement",       "file": "measurement.md" },
+      { "label": "Qubit Operations",  "file": "qubits.md" }
+    ]
+  },
+  {
+    "group": "Advanced",
+    "items": [
+      { "label": "Error Correction",  "file": "error-correction.md" },
+      { "label": "Algorithms",        "file": "algorithms.md" },
+      { "label": "State Management",  "file": "state.md" }
+    ]
+  },
+  {
+    "group": "QPM Package Manager",
+    "items": [
+      { "label": "Installing Packages", "file": "qpm-install.md" },
+      { "label": "Publishing",          "file": "qpm-publish.md" },
+      { "label": "Environments (qenv)", "file": "qpm-env.md" }
+    ]
+  },
+  {
+    "group": "Reference",
+    "items": [
+      { "label": "API Reference",      "file": "api-reference.md" },
+      { "label": "Standard Library",   "file": "stdlib.md" },
+      { "label": "Build from Source",  "file": "build-from-source.md" }
+    ]
+  }
+]
