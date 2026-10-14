@@ -129,5 +129,9 @@
         "file": "qpmsdk.md"
       }
     ]
+  },
+  {
+    "group": "QPM Package",
+    "items": []
   }
 ]
