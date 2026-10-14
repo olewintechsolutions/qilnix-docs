@@ -48,5 +48,13 @@
       { "label": "Standard Library",   "file": "stdlib.md" },
       { "label": "Build from Source",  "file": "build-from-source.md" }
     ]
+  },
+  {
+    "group": "Books",
+    "items": [
+      { "label": "Quantum Computing ",      "file": "qc.md" },
+      { "label": "Circuits, Architecture & Ecosystem",   "file": "cae.md" },
+      { "label": "QPM SDK ",  "file": "qpmsdk.md" }
+    ]
   }
 ]
