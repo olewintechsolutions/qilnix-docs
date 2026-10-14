@@ -144,6 +144,10 @@
       {
         "label": "how it works",
         "file": "how-it-works.md"
+      },
+      {
+        "label": "steps to follow",
+        "file": "steps-to-follow.md"
       }
     ]
   }
