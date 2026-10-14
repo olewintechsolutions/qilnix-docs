@@ -140,6 +140,10 @@
       {
         "label": "what is qpm",
         "file": "what-is-qpm.md"
+      },
+      {
+        "label": "how it works",
+        "file": "how-it-works.md"
       }
     ]
   }
